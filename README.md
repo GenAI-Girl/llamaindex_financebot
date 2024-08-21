@@ -34,7 +34,7 @@ conda activate finace
 ```bash
 pip install -r requirements.txt
 ```
-
+Run Src files to ingest the data, store in local vecor DB and retrive (3 files in src folder)
 
 ```bash
 # Finally run the following command
