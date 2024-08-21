@@ -1,0 +1,5 @@
+openai
+pandas
+llama-index
+streamlit
+python-dotenv
